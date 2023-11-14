@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/__akanda__" target="blank"><img src="https://img.shields.io/twitter/follow/__akanda__?logo=twitter&style=for-the-badge" alt="__akanda__" /></a> </p>
 
-### 🔭 I’m currently working with **Techduce Africa**
+<h2 align="left"> 🔭 I’m currently working with **Techduce Africa**</h2>
 - 👨‍💻 All of my projects are available at [https://adekoyeadewale.com/](https://adekoyeadewale.com/)
 - 💬 Ask me about **Next Gen CSS😜**
 - 📫 How to reach me **ask@adekoyeadewale.com**
 - ⚡ Fun fact **Gamer who don't sleep**
 <br/>
-### Connect with me:
+<h3 align="left"> Connect with me:<h3/>
 <p align="left">
 <a href="https://twitter.com/__akanda__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__akanda__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adekoye-adewale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adekoye-adewale" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 <a href="https://medium.com/@__akanda__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@__akanda__" height="30" width="40" /></a>
 </p>
 <br/>
-### Languages and Tools:
+<h3 align="left"> Languages and Tools:<h3/>
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -42,22 +42,22 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 <br/>
-## Profile Trophies 🏆:
+<h3 align="left"> Profile Trophies 🏆:
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adekoye-adewale" alt="adekoye-adewale" /></a> 
 </p>
 <br/>
-## Most Used Language 🧑🏾‍💻:
+<h3 align="left"> Most Used Language 🧑🏾‍💻:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adekoye-adewale&show_icons=true&locale=en&layout=compact" alt="adekoye-adewale" />
 </p>
 <br/>
-## Statistical Value 🔢:
+<h3 align="left"> Statistical Value 🔢:<h3/>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adekoye-adewale&show_icons=true&locale=en" alt="adekoye-adewale" />
 </p>
 <br/>
-## Streak 🔥:
+<h3 align="left"> Streak 🔥:<h3/>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adekoye-adewale&" alt="adekoye-adewale" />
 </p>
