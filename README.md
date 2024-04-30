@@ -3,8 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/__akanda__" target="blank"><img src="https://img.shields.io/twitter/follow/__akanda__?logo=twitter&style=for-the-badge" alt="__akanda__" /></a> </p>
 
-<h2 align="left"> 🔭 I’m currently working with **Techduce Africa**</h2>
-<li> 👨‍💻 All of my projects are available at [https://adekoyeadewale.com/](https://adekoyeadewale.com/)</li>
+<h2 align="left"> 🔭 I’m currently working with Punch Group</h2>
+<li> 👨‍💻 All of my projects are available at (https://adekoyeadewale.com/)[https://adekoyeadewale.com/]</li>
 <li> 💬 Ask me about **Next Gen CSS😜**</li>
 <li> 📫 How to reach me **ask@adekoyeadewale.com**</li>
 <li> ⚡ Fun fact **Gamer who don't sleep**</li>
