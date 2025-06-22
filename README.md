@@ -1,12 +1,12 @@
 <h1 align="leftr">Hi 👋, I'm Adekoye Adewale (Akanda)</h1>
-<h3 align="left">A passionate frontend developer from Nigeria</h3>
+<h3 align="left">A passionate frontend developer from Lagos, Nigeria</h3>
 
 <p align="left"> <a href="https://twitter.com/__akanda__" target="blank"><img src="https://img.shields.io/twitter/follow/__akanda__?logo=twitter&style=for-the-badge" alt="__akanda__" /></a> </p>
 
-<h2 align="left"> 🔭 I’m currently working with Punch Group</h2>
-<li> 👨‍💻 All of my projects are available at <a href="https://adekoyeadewale.com/" target="__blank">www.adekoyeadewale.com</a></li>
+<h2 align="left"> 🔭 I’m currently working with Access Business Network</h2>
+<li> 👨‍💻 All of my projects are available at <a href="https://adekoye.com.ng/" target="__blank">www.adekoye.com.ng</a></li>
 <li> 💬 Ask me about Next Gen CSS😜</li>
-<li> 📫 How to reach me ask@adekoyeadewale.com</li>
+<li> 📫 How to reach me adewale@adekoye.com.ng</li>
 <li> ⚡ Fun fact: Gamer who don't sleep</li>
 <br/>
 <h3 align="left"> Connect with me:<h3/>
